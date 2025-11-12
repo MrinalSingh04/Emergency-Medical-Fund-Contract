@@ -9,7 +9,7 @@ If approved by majority vote, the requested funds are **released instantly** to 
 
 ---
 
-## 💡 Why this matters
+## 💡 Why this matters 
 
 Medical emergencies are unpredictable, and traditional insurance or aid processes often involve **delays, bureaucracy, and lack of transparency**.  
 This smart contract solves those problems by:
