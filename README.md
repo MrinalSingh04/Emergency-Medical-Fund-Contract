@@ -6,7 +6,7 @@ The **Emergency Medical Fund Contract** is a decentralized, community-driven eme
 Members contribute a fixed monthly amount to a shared on-chain fund.  
 When a medical emergency occurs, a member can **request financial assistance**, and other members vote to approve or reject the request.  
 If approved by majority vote, the requested funds are **released instantly** to the patient.
-
+ 
 ---  
  
 ## 💡 Why this matters 
