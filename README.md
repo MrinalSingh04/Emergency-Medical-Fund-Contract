@@ -8,7 +8,7 @@ When a medical emergency occurs, a member can **request financial assistance**, 
 If approved by majority vote, the requested funds are **released instantly** to the patient.
  
 ---  
-  
+   
 ## 💡 Why this matters 
  
 Medical emergencies are unpredictable, and traditional insurance or aid processes often involve **delays, bureaucracy, and lack of transparency**.  
