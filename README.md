@@ -14,7 +14,7 @@ If approved by majority vote, the requested funds are **released instantly** to 
 Medical emergencies are unpredictable, and traditional insurance or aid processes often involve **delays, bureaucracy, and lack of transparency**.  
 This smart contract solves those problems by:
 
-- **Immediate fund release** after community approval.
+- **Immediate fund release** after community approval. 
 - **Transparent voting** to ensure fairness.
 - **No middlemen** — funds move directly from the community pool to the patient.
 - **Trustless contribution system** — every member’s funds are visible on-chain.
